@@ -7,7 +7,8 @@ I´m a Full Stack Developer :computer:
 ## :arrow_right: Languages and Tools:
 
 <p>
-  <code><img width="15%" heigth="100px" src="https://cobaltoconsulting.com/wp-content/uploads/2019/09/javascript-logo.png"></code>
+  //https://cobaltoconsulting.com/wp-content/uploads/2019/09/javascript-logo.png
+  <code><img width="15%" heigth="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png"></code>
   <code><img width="15%" heigth="100px" src="https://programacion.net/files/article/article_02169_.jpg"></code>
   <code><img width="15%"heigth="100px" src="https://disenowebakus.net/imagenes/articulos/html5.jpg"></code>
   <code><img width="15%" heigth="100px" src="https://blog.wildix.com/wp-content/uploads/2020/06/react-logo.jpg"></code>
