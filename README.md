@@ -4,7 +4,7 @@
 I´m a Full Stack Developer :computer: 
 </h2>
 
-## :arrow_right: Languages and Tools:
+## 🔽 Languages and Tools:
 
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
