@@ -19,7 +19,7 @@
 
 ## 🔽 My proyects:
 
-<h4>ARCADE-MANIA</h4>
+<h4 href="https://github.com/selebruno/henry-food" target="_blank">ARCADE-MANIA</h4>
 <p>
   <a><img width="70%" height="70%" src="https://github.com/jiq1999/jiq1999/blob/main/images/landing.png"></a>
   <a><img width="70%" height="70%" src="https://github.com/jiq1999/jiq1999/blob/main/images/home1.png"></a>
