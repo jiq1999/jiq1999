@@ -31,6 +31,6 @@
 ## 🔽 Contact me:
 
 <span >
-  <a href="https://www.linkedin.com/in/juan-i-quiroga-dev/" ><img width="60px" height="60px" src="https://cdn.icon-      icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png">
+  <a href="https://www.linkedin.com/in/juan-i-quiroga-dev/" ><img width="60px" height="60px" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png">
   <a href="mailto:juaniquiroga13@gmail.com" ><img width="60px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-     icons-mail.svg.png">
 </span>
