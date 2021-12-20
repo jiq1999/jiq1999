@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Juani!👋</h1>
 
-<h2 align="start">
-I´m a Full Stack Developer :computer: 
-</h2>
-
 ## 🔽 Languages and Tools:
 
 <p>
@@ -21,7 +17,7 @@ I´m a Full Stack Developer :computer:
   <br />
 </p>
 
-## 🔽 My proyects
+## 🔽 My proyects:
 
 <h4>ARCADE-MANIA</h4>
 <p>
@@ -31,3 +27,10 @@ I´m a Full Stack Developer :computer:
   <a><img width="70%" height="70%" src="https://github.com/jiq1999/jiq1999/blob/main/images/detail.png"></a>
   <a><img width="70%" height="70%" src="https://github.com/jiq1999/jiq1999/blob/main/images/creator.png"></a>
 </p>
+
+## 🔽 Contact me:
+
+<span >
+  <a href="https://www.linkedin.com/in/juan-i-quiroga-dev/" ><img width="60px" height="60px" src="https://cdn.icon-      icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png">
+  <a href="mailto:juaniquiroga13@gmail.com" ><img width="60px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-     icons-mail.svg.png">
+</span>
