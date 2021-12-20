@@ -26,8 +26,8 @@ I´m a Full Stack Developer :computer:
 <h4>ARCADE-MANIA</h4>
 <p>
   <a><img width="60%" height="60%" src="https://github.com/jiq1999/jiq1999/blob/main/images/landing.png"></a>
-  <a><img src="https://github.com/jiq1999/jiq1999/blob/main/images/home1.png"></a>
-  <a><img src="https://github.com/jiq1999/jiq1999/blob/main/images/home2.png"></a>
-  <a><img src="https://github.com/jiq1999/jiq1999/blob/main/images/detail.png"></a>
-  <a><img src="https://github.com/jiq1999/jiq1999/blob/main/images/creator.png"></a>
+  <a><img width="60%" height="60%" src="https://github.com/jiq1999/jiq1999/blob/main/images/home1.png"></a>
+  <a><img width="60%" height="60%" src="https://github.com/jiq1999/jiq1999/blob/main/images/home2.png"></a>
+  <a><img width="60%" height="60%" src="https://github.com/jiq1999/jiq1999/blob/main/images/detail.png"></a>
+  <a><img width="60%" height="60%" src="https://github.com/jiq1999/jiq1999/blob/main/images/creator.png"></a>
 </p>
