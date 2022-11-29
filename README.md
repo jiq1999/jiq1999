@@ -17,7 +17,7 @@
   <br />
 </p>
 
-## 🔽 My projects:
+## 🔽 My Projects:
 
 <h4>ARCADE-MANIA</h4>
 <a href="https://github.com/jiq1999/ARCADE-MANIA" target="_blank">Check code</a>
