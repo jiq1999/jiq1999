@@ -19,6 +19,13 @@
 
 ## 🔽 My Projects:
 
+<h4>E-COMMERCE-APP</h4>
+<a href="https://github.com/jiq1999/ARCADE-MANIA" target="_blank">Check code</a>
+<p>
+  <a><img width="70%" height="70%" src="https://github.com/jiq1999/jiq1999/blob/main/images/e-commerce-desktop.png"></a>
+  <a><img width="70%" height="70%" src="https://github.com/jiq1999/jiq1999/blob/main/images/e-commerce-mobile.png"></a>
+</p>
+
 <h4>ARCADE-MANIA</h4>
 <a href="https://github.com/jiq1999/ARCADE-MANIA" target="_blank">Check code</a>
 <p>
