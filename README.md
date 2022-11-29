@@ -21,7 +21,7 @@
 
 <h4>E-COMMERCE-APP</h4>
 <a href="https://github.com/jiq1999/ARCADE-MANIA" target="_blank">Check code</a>
-<p style="display:flex;gap:30px;">
+<p>
   <a><img width="auto" height="500px" src="https://github.com/jiq1999/jiq1999/blob/main/images/e-commerce-desktop.png"></a>
   <a><img width="auto" height="500px" src="https://github.com/jiq1999/jiq1999/blob/main/images/e-commerce-mobile.png"></a>
 </p>
