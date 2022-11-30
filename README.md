@@ -28,7 +28,8 @@
   <video width="320" height="240" controls>
   <source src="https://youtu.be/4aqQMNwHhT0" type="video/mp4">
   Your browser does not support the video tag.
-</video>
+  </video>
+  [![Alt text](https://img.youtube.com/vi/configuroweb/0.jpg)](https://www.youtube.com/watch?v=configuroweb)
 </p>
 
 <h4>◽ E-COMMERCE-APP</h4>
