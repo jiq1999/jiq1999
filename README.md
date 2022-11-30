@@ -19,6 +19,14 @@
 
 ## 🔽 My Projects:
 
+<h4>◽ CRYPTO-WALLET-APP</h4>
+<p>
+  <a href="https://github.com/jiq1999/crypto-wallet-app" target="_blank">Check Code</a>
+</p>
+<p>
+  <a><iframe src="https://youtu.be/4aqQMNwHhT0"/></a>
+</p>
+
 <h4>◽ E-COMMERCE-APP</h4>
 <p>
   <a href="https://github.com/jiq1999/e-commerce-app" target="_blank">Check Code</a>
