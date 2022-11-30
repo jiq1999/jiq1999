@@ -34,7 +34,7 @@
   <a href="https://e-commerce-app-jiq999.vercel.app/" target="_blank">Deploy</a>
 </p>
 <p>
-  <img align="center" width="90%" height="auto" src="https://github.com/jiq1999/e-commerce-app/blob/main/desktop-mobile-bg.png">
+  <img width="100%" height="auto" src="https://github.com/jiq1999/e-commerce-app/blob/main/desktop-mobile-bg.png">
 </p>
 
 <h4>◽ MOVIES-APP</h4>
@@ -45,7 +45,7 @@
   <a href="https://movies-app-jiq999.vercel.app/" target="_blank">Deploy</a>
 </p>
 <p>
-  <a><img width="90%" height="auto" src="https://github.com/jiq1999/movies-app/blob/main/desktop-mobile-bg.png"></a>
+  <img width="100%" height="auto" src="https://github.com/jiq1999/movies-app/blob/main/desktop-mobile-bg.png">
 </p>
 
 <h4>◽ WEATHER-APP</h4>
@@ -56,7 +56,7 @@
   <a href="https://weather-app-jiq1999.vercel.app/" target="_blank">Deploy</a>
 </p>
 <p>
-  <a><img width="90%" height="auto" src="https://github.com/jiq1999/weather-app/blob/main/desktop-mobile-bg.png"></a>
+  <img width="100%" height="auto" src="https://github.com/jiq1999/weather-app/blob/main/desktop-mobile-bg.png">
 </p>
 
 <h4>◽ ARCADE-MANIA</h4>
