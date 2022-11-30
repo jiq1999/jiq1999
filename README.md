@@ -20,10 +20,12 @@
 ## 🔽 My Projects:
 
 <h4>E-COMMERCE-APP</h4>
-<a href="https://github.com/jiq1999/e-commerce-app" target="_blank">Check Code</a>
-<a href="https://e-commerce-app-jiq999.vercel.app/" target="_blank">Deploy</a>
 <p>
-  <a><img width="90%" height="auto" src="https://github.com/jiq1999/jiq1999/blob/main/images/e-commerce-desktop.png"></a>
+  <a href="https://github.com/jiq1999/e-commerce-app" target="_blank">Check Code</a>
+  <a href="https://e-commerce-app-jiq999.vercel.app/" target="_blank">Deploy</a>
+</p>
+<p>
+  <a><img width="90%" height="auto" src="https://github.com/jiq1999/e-commerce-app/blob/main/desktop-mobile-bg.png"></a>
 </p>
 
 <h4>ARCADE-MANIA</h4>
