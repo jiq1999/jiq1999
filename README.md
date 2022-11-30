@@ -22,6 +22,8 @@
 <h4>E-COMMERCE-APP</h4>
 <p>
   <a href="https://github.com/jiq1999/e-commerce-app" target="_blank">Check Code</a>
+</p>
+<p>
   <a href="https://e-commerce-app-jiq999.vercel.app/" target="_blank">Deploy</a>
 </p>
 <p>
