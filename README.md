@@ -24,7 +24,7 @@
   <a href="https://github.com/jiq1999/crypto-wallet-app" target="_blank">Check Code</a>
 </p>
 
-[![Alt text](https://github.com/jiq1999/jiq1999/blob/main/images/crypto-wallet-app.png)](https://www.youtube.com/watch?v=3RFAX3CbSGA)
+[![Alt text](https://github.com/jiq1999/jiq1999/blob/main/images/crypto-wallet-app.png)](https://www.youtube.com/watch?v=4aqQMNwHhT0)
 
 <h4>◽ E-COMMERCE-APP</h4>
 <p>
