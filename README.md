@@ -30,6 +30,17 @@
   <a><img width="90%" height="auto" src="https://github.com/jiq1999/e-commerce-app/blob/main/desktop-mobile-bg.png"></a>
 </p>
 
+<h4>◽ MOVIES-APP</h4>
+<p>
+  <a href="https://github.com/jiq1999/movies-app" target="_blank">Check Code</a>
+</p>
+<p>
+  <a href="https://movies-app-jiq999.vercel.app/" target="_blank">Deploy</a>
+</p>
+<p>
+  <a><img width="90%" height="auto" src="https://github.com/jiq1999/movies-app/blob/main/desktop-mobile-bg.png"></a>
+</p>
+
 <h4>◽ ARCADE-MANIA</h4>
 <p>
   <a href="https://github.com/jiq1999/ARCADE-MANIA" target="_blank">Check Code</a>
