@@ -19,7 +19,7 @@
 
 ## 🔽 My Projects:
 
-<h4>◽◻ E-COMMERCE-APP</h4>
+<h4>◽ E-COMMERCE-APP</h4>
 <p>
   <a href="https://github.com/jiq1999/e-commerce-app" target="_blank">Check Code</a>
 </p>
@@ -30,7 +30,7 @@
   <a><img width="90%" height="auto" src="https://github.com/jiq1999/e-commerce-app/blob/main/desktop-mobile-bg.png"></a>
 </p>
 
-<h4>- ARCADE-MANIA</h4>
+<h4>◽ ARCADE-MANIA</h4>
 <a href="https://github.com/jiq1999/ARCADE-MANIA" target="_blank">Check Code</a>
 <p>
   <a><img width="70%" height="70%" src="https://github.com/jiq1999/jiq1999/blob/main/images/landing.png"></a>
