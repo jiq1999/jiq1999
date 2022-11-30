@@ -34,7 +34,7 @@
   <a href="https://e-commerce-app-jiq999.vercel.app/" target="_blank">Deploy</a>
 </p>
 <p>
-  <a><img width="90%" height="auto" src="https://github.com/jiq1999/e-commerce-app/blob/main/desktop-mobile-bg.png"></a>
+  <a><img align="center" width="90%" height="auto" src="https://github.com/jiq1999/e-commerce-app/blob/main/desktop-mobile-bg.png"></a>
 </p>
 
 <h4>◽ MOVIES-APP</h4>
